@@ -15,3 +15,7 @@ Ross Bollinger Final Project Report.docx: This is the final project I completed 
 test a newer natural language processing model, Word2Vec, against an older one, Bag of Words, on text from English Renaissance plays. I
 created the datasets myself and formatted them manually. I have not included them in this repository due to how may there are.
 All details are in the write-up.
+
+Word2Vec Testing.py: This is the program I wrote using online sources to test the Word2Vec model in my final project. I am not entirely 
+sure of the efficiency or effectiveness of this program, but it gave me usable results. I would not recommend testing as it takes up a 
+large quantity of memory and takes a long time to finish running.
